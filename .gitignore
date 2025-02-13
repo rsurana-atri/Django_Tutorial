@@ -1,0 +1,3 @@
+*.pyc__pycache__
+.DS_Store
+edc/settings_local.py
